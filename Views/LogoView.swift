@@ -1,9 +1,3 @@
-//
-//  LogoView.swift
-//  Instagram
-//
-//  Created by Dmitry on 30.06.25.
-//
 
 import SnapKit
 import UIKit
